@@ -1,0 +1,22 @@
+.mobile_container {
+  display: flex;
+  background-color: #FFFFFF;
+  padding-top: 79px;
+  padding-bottom: 79px;
+
+  .mobile_image_container {
+    display: flex;
+    align-items: center;
+    width: 50%;
+  }
+
+  .mobile_title_container.title_container {
+    width: 50%;
+
+    h1{
+      span{
+        color: #EC5863;
+      }
+    }
+  }
+}
